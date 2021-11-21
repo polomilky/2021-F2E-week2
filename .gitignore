@@ -21,3 +21,9 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+# sh
+deploy.sh
+
+.env.development
+.env.production
