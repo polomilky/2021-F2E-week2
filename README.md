@@ -20,6 +20,8 @@ yarn serve
 - Vue Cli
 - vuetify
 - Axios
+- vue2-leaflet
+- vue2-leaflet-markercluster
 
 ## Project setup
 ```
